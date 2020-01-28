@@ -3,6 +3,8 @@ def roll_call_dwarves#["Doc", "Dopey", "Bashful",
  puts = Doc, Dopey,Bashful,Grumpy
  return
  end
+ each_with_index
+ end
  
 def roll_call_dwarves# code an argument here
   # Your code here
