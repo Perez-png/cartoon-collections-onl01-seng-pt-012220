@@ -41,6 +41,12 @@ soup = [tomato soup", "cheddar", "oyster crackers", "gouda"}
 find_the_cheese(soup)
 #=> "cheddar"
 
+ingredients = ["garlic", 
+"rosemary", "bread"]
+find_the_cheese(ingredients)
+#= >nil 
+.include
+end
 code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
