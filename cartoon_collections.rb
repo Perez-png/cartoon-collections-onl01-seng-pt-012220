@@ -7,7 +7,13 @@ def roll_call_dwarves#["Doc", "Dopey", "Bashful",
  end
  
 def roll_call_dwarves# code an argument here
-  # Your code here
+  def roll_call_dwarves#["Doc", "Dopey", "Bashful",
+"Grumpy"]
+ puts = Doc, Dopey,Bashful,Grumpy
+ return
+ end
+ each_with_index
+ end# Your code here
 end
 
 def summon_captain_planet# code an argument here
