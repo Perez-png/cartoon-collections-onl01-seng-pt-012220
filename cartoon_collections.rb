@@ -1,11 +1,3 @@
-def roll_call_dwarves#["Doc", "Dopey", "Bashful",
-"Grumpy"]
- puts = Doc, Dopey,Bashful,Grumpy
- return
- end
- each_with_index
- end
- 
 def roll_call_dwarves# code an argument here
   def roll_call_dwarves#["Doc", "Dopey", "Bashful",
 "Grumpy"]
@@ -16,7 +8,11 @@ def roll_call_dwarves# code an argument here
  end# Your code here
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet
+  long_planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+  return
+  
+  # code an argument here
   # Your code here
 end
 
