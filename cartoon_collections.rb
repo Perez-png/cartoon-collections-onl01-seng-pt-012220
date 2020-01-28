@@ -12,7 +12,11 @@ def summon_captain_planet
   long_planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
   return
 end
-  # code an argument here
+ summon_captain_planet(long_planeteer_calls)
+ => ["Earth!", "Wind!", "Fire!", "Water!", "Heart!"]
+ .summon_captain_planet
+ .collect 
+ # code an argument here
   # Your code here
 end
 
