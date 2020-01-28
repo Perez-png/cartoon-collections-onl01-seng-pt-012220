@@ -1,3 +1,9 @@
+def roll_call_dwarves#["Doc", "Dopey", "Bashful",
+"Grumpy"]
+ puts = Doc, Dopey,Bashful,Grumpy
+ return
+ end
+ 
 def roll_call_dwarves# code an argument here
   # Your code here
 end
